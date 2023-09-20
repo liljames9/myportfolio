@@ -1,0 +1,140 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+background-color:blanchedalmond;
+}
+.beginning {
+    text-align: center;
+    color: burlywood;
+    background-color: black;
+    border: 0 solid;
+    display: block; 
+    border-width: 0px;
+    margin-top: auto;
+    margin: 0px;
+    margin-left: auto;
+    margin-bottom: 150px;
+    padding: 50px;
+
+}
+
+.otherimg {
+    position: relative;
+    top: 100px;        
+    }
+main img {
+    height: 600px;
+    width: 600px;
+    display: block;
+    margin: auto;
+    margin-bottom: 400px;
+   border-style: solid;
+   border-width: 2px;
+   border-bottom-left-radius: 50px;
+   border-top-right-radius: 50px;
+   border-bottom-right-radius: 50px;
+   border-top-left-radius: 50px;
+}
+.littleheading {
+    font-family: cursive;
+    align-items: center;
+    display: block;
+    margin-left: ;
+    margin: 350px; 
+    border-style: solid;
+    border-width: 1px;
+    border-left-width: 10px;
+    padding: 20px;
+    margin: auto;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px; 
+    
+    
+}
+.first {
+    position: relative;
+    bottom: 380px;
+    margin: 300px;
+
+}
+.second {
+    position: relative;
+    bottom: 650px;
+    margin: 300px;
+}
+.third {
+    position: relative;
+    top: 20px;
+}
+.firstheading {
+    font-family: fantasy;
+    align-items: center;
+}
+ .secondheading {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 25px;
+ }
+.thirdheading {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 25px;
+}
+.fourthheading {
+    font-family: fantasy;
+    text-align: center;
+    font-size: 25px;
+    
+}
+.intro {
+    font-family: cursive;
+    font-size: 25px;
+    text-align: left;
+    border-style: solid;
+    border-width: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 1px;
+}
+.about {
+    font-family: cursive;
+    font-size: 25px;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-top: 1px;
+}
+.contact {
+    font-family: cursive;
+    text-align: center;
+    font-size: 20px;
+}
+.links {
+    font-family: cursive;
+    text-align: center;
+    font-size: 25px;
+}
+.bullet {
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    background-color: burlywood;
+}
+.thiselement {
+text-align: left;
+}
+.otherelement {
+    text-align: left;
+}
+.aelement {
+    text-align: center;
+}
