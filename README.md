@@ -1,2 +1,0 @@
-# myportfolio
-my first portfolio
